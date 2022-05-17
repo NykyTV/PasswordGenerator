@@ -5,7 +5,9 @@ Setup:
 
 1. Update<br/>
 ```sudo apt-get update```
-2. Install Python<br/>
+2. Upgrade<br/>
+```sudo apt-get upgrade```
+3. Install Python<br/>
 ```sudo apt-get install python3```
-3. Run it<br/>
+4. Run it<br/>
 ```python3 PasswordGenerator.py```
