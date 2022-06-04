@@ -1,8 +1,7 @@
-# PasswordGenerator
-Python Password Generator
+# Discord-Bot
+Python Discord Bot
 
 Setup:
-
 1. Update<br/>
 ```sudo apt-get update```
 2. Upgrade<br/>
@@ -10,4 +9,4 @@ Setup:
 3. Install Python<br/>
 ```sudo apt-get install python3```
 4. Run it<br/>
-```python3 PasswordGenerator.py```
+```python3 bot.py```
