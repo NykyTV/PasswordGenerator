@@ -9,4 +9,4 @@ Setup:
 3. Install Python<br/>
 ```sudo apt-get install python3```
 4. Run it<br/>
-```python3 bot.py```
+```python3 passwordgenerator.py```
